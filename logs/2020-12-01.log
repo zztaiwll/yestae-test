@@ -5,3 +5,17 @@
 2020-12-01 15:40:45,017 - INFO - basepage.py:move_to_element:128 - Message: 
 
 2020-12-01 15:40:45,672 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-12-01_15_40_45.png
+2020-12-01 16:31:31,905 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-12-01 16:31:31,906 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-12-01 16:31:38,495 - ERROR - basepage.py:find_element:51 - Can not find element: //*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/div, exception is: Message: no such window: window was already closed
+  (Session info: chrome=86.0.4240.198)
+
+2020-12-01 16:31:38,505 - ERROR - basepage.py:get_screen_img:83 - 失败截图 Message: no such window: window was already closed
+  (Session info: chrome=86.0.4240.198)
+
+2020-12-01 16:31:38,506 - INFO - basepage.py:move_to_element:128 - Message: no such window: window was already closed
+  (Session info: chrome=86.0.4240.198)
+
+2020-12-01 16:31:38,510 - ERROR - basepage.py:get_screen_img:83 - 失败截图 Message: no such window: window was already closed
+  (Session info: chrome=86.0.4240.198)
+
