@@ -1,0 +1,105 @@
+2020-11-10 16:09:06,063 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 16:09:06,065 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 16:09:13,954 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]...
+2020-11-10 16:10:50,561 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 16:10:50,562 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 16:10:58,622 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:17:15,148 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:17:15,150 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:17:25,213 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:17:25,280 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tea-upload-img__wrapper"][1]...
+2020-11-10 17:17:35,803 - ERROR - basepage.py:find_element:47 - Can not find element: //div[@class="tea-upload-img__wrapper"][1]
+2020-11-10 17:17:36,758 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_17_35.png
+2020-11-10 17:17:36,758 - ERROR - basepage.py:click:91 - 无法点击元素: Message: 
+
+2020-11-10 17:17:37,103 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_17_36.png
+2020-11-10 17:18:01,830 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:18:01,831 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:18:19,186 - ERROR - basepage.py:find_element:47 - Can not find element: /html/body/div[2]/ul/div[1]
+2020-11-10 17:18:19,537 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_18_19.png
+2020-11-10 17:18:19,537 - INFO - basepage.py:move_to_element:128 - Message: 
+
+2020-11-10 17:18:19,832 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_18_19.png
+2020-11-10 17:19:04,164 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:19:04,165 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:19:12,196 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:19:12,250 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tea-upload-img__wrapper"][1]...
+2020-11-10 17:19:22,780 - ERROR - basepage.py:find_element:47 - Can not find element: //div[@class="tea-upload-img__wrapper"][1]
+2020-11-10 17:19:23,104 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_19_22.png
+2020-11-10 17:19:23,105 - ERROR - basepage.py:click:91 - 无法点击元素: Message: 
+
+2020-11-10 17:19:23,428 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_19_23.png
+2020-11-10 17:22:12,509 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:22:12,510 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:22:25,528 - ERROR - basepage.py:find_element:51 - Can not find element: /html/body/div[2]/ul/div[1], exception is: 'NoneType' object has no attribute 'is_displayed'
+2020-11-10 17:22:25,529 - ERROR - basepage.py:get_screen_img:83 - 失败截图 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.183)
+
+2020-11-10 17:22:25,530 - INFO - basepage.py:move_to_element:128 - 'NoneType' object has no attribute 'is_displayed'
+2020-11-10 17:22:25,530 - ERROR - basepage.py:get_screen_img:83 - 失败截图 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.183)
+
+2020-11-10 17:22:29,623 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:22:29,623 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:22:37,504 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:22:37,574 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tea-upload-img__wrapper"][1]...
+2020-11-10 17:22:48,111 - ERROR - basepage.py:find_element:47 - Can not find element: //div[@class="tea-upload-img__wrapper"][1]
+2020-11-10 17:22:48,428 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_22_48.png
+2020-11-10 17:22:48,428 - ERROR - basepage.py:click:91 - 无法点击元素: Message: 
+
+2020-11-10 17:22:48,758 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_22_48.png
+2020-11-10 17:23:21,752 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:23:21,754 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:23:29,735 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:23:29,806 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:23:31,098 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:23:41,120 - ERROR - basepage.py:find_element:47 - Can not find element: //div[@class="tb-left"]/button[1]
+2020-11-10 17:23:41,453 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_23_41.png
+2020-11-10 17:23:41,453 - ERROR - basepage.py:click:91 - 无法点击元素: Message: 
+
+2020-11-10 17:23:41,754 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_23_41.png
+2020-11-10 17:26:53,272 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:26:53,273 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:27:01,437 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:27:01,540 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:27:02,899 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:27:13,017 - ERROR - basepage.py:find_element:47 - Can not find element: //div[@class="tb-left"]/button[1]
+2020-11-10 17:27:13,409 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_27_13.png
+2020-11-10 17:27:13,409 - ERROR - basepage.py:click:91 - 无法点击元素: Message: 
+
+2020-11-10 17:27:13,709 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_27_13.png
+2020-11-10 17:27:52,642 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:27:52,644 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:28:03,190 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:28:03,316 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:28:04,863 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:28:14,967 - ERROR - basepage.py:find_element:47 - Can not find element: //div[@class="tb-left"]/button[1]
+2020-11-10 17:28:15,335 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_28_14.png
+2020-11-10 17:28:15,335 - ERROR - basepage.py:click:91 - 无法点击元素: Message: 
+
+2020-11-10 17:28:15,650 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_28_15.png
+2020-11-10 17:30:53,090 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:30:53,090 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:31:01,520 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:31:03,638 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:31:04,878 - INFO - basepage.py:click:86 - Click element by xpath: //*[@id="pane-top"]/div/form/div[5]/div[1]/div/div/div/div[1]...
+2020-11-10 17:31:06,288 - INFO - basepage.py:send_key:107 - Input element by xpath: //input[@class="el-upload__input"][1]...
+2020-11-10 17:31:06,288 - INFO - basepage.py:send_key:108 - Input: /Users/juanjuan/Downloads/ss.jpg 
+2020-11-10 17:31:16,449 - ERROR - basepage.py:find_element:47 - Can not find element: //input[@class="el-upload__input"][1]
+2020-11-10 17:31:16,750 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_31_16.png
+2020-11-10 17:31:16,750 - ERROR - basepage.py:send_key:113 - Failed to type in input box with Message: 
+
+2020-11-10 17:31:17,061 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_31_16.png
+2020-11-10 17:32:37,718 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-11-10 17:32:37,719 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-11-10 17:32:46,035 - INFO - basepage.py:click:86 - Click element by xpath: /html/body/div[2]/ul/div/li/div[2]/ul/div[2]...
+2020-11-10 17:32:48,137 - INFO - basepage.py:click:86 - Click element by xpath: //div[@class="tb-left"]/button[1]...
+2020-11-10 17:32:49,343 - INFO - basepage.py:send_key:107 - Input element by xpath: //input[@class="el-upload__input"][1]...
+2020-11-10 17:32:49,343 - INFO - basepage.py:send_key:108 - Input: /Users/juanjuan/Downloads/ss.jpg 
+2020-11-10 17:32:59,448 - ERROR - basepage.py:find_element:47 - Can not find element: //input[@class="el-upload__input"][1]
+2020-11-10 17:32:59,767 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_32_59.png
+2020-11-10 17:32:59,767 - ERROR - basepage.py:send_key:113 - Failed to type in input box with Message: 
+
+2020-11-10 17:33:00,080 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-11-10_17_32_59.png

@@ -1,0 +1,7 @@
+2020-12-01 15:40:28,007 - INFO - driver_utils.py:Driver:12 - 当前系统为Darwin
+2020-12-01 15:40:28,008 - INFO - driver_utils.py:Driver:14 - 选择的浏览器为: Chrome 浏览器
+2020-12-01 15:40:44,299 - ERROR - basepage.py:find_element:47 - Can not find element: //*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/div
+2020-12-01 15:40:45,016 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-12-01_15_40_44.png
+2020-12-01 15:40:45,017 - INFO - basepage.py:move_to_element:128 - Message: 
+
+2020-12-01 15:40:45,672 - INFO - basepage.py:get_screen_img:81 - 页面已截图，截图的路径为: /Users/juanjuan/Documents/project/python/yestae-test/screenshots/2020-12-01_15_40_45.png
