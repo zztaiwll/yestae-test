@@ -22,7 +22,7 @@ class TestType(object):
 
     def test_skin(self):
         type=TypePages(self.driver)
-
+        print("11111")
         type.skin_to()
         type.add_head_type("zzt-auto test","12001","auto_test")
 
